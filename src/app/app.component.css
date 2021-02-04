@@ -1,0 +1,10 @@
+.error {
+  border: 1px solid red;
+}
+p {
+  width: 20%;
+}
+
+input {
+  width: 10%;
+}
